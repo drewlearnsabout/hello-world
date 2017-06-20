@@ -17,4 +17,8 @@ int main(void)
     printf("Hello, world!\n");
 }
 
+<p>I have also recently downloaded Visual studio 2017, and I have<br >
+played around with creating projects, including another hello world<br >
+generator.  *See the attached file</p>
+
 
